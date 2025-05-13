@@ -25,7 +25,7 @@ The system uses NVIDIA's Parakeet-TDT-0.6b-v2, a high-performance automatic spee
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/parakeet-transcription.git
+   https://github.com/R-Mob/Nvidia_Parakeet_gradio.git
    cd parakeet-transcription
    ```
 
